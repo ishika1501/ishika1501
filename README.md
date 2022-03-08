@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ishika20_ug@cse.nits.ac.in**
 
-- ⚡ Fun fact **Ever saw a multitalented coder? Meet me!**
+- ⚡ Fun fact **Ever saw a multitalented coder? person right here!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
