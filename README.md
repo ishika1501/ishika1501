@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishika1501&label=Profile%20views&color=0e75b6&style=flat" alt="ishika1501" /> </p>
 
-- 🌱 I’m currently learning **Backend Developement**
 
 - 📫 How to reach me **ishika20_ug@cse.nits.ac.in**
 
