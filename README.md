@@ -1,10 +1,10 @@
 
 
 
-# 💫 About Me:
+
 <h1 align="center">Hi 👋, I'm Ishika Raj</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer.</h3>
-<h3>- 📫 How to reach me **ishika20_ug@cse.nits.ac.in**</h3>
+<h3 align="center">📫 How to reach me **ishika15raj@gmail.com**</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishika1501&label=Profile%20views&color=0e75b6&style=flat" alt="ishika1501" /> </p>
 
 
