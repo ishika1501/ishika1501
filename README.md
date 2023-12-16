@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Ishika Raj</h1>
-<h3 align="left">A passionate frontend developer and UI/UX designer.</h3>
+<h3 align="left">A passionate developer, UI/UX designer, Graphic designer </h3>
 <h3 align="left">📫 How to reach me ishika15raj@gmail.com </h3>
 
 [![](https://visitcount.itsvg.in/api?id=ishika1501&icon=5&color=0)](https://visitcount.itsvg.in)
