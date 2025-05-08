@@ -1,10 +1,16 @@
 
 
 
+<h1 align="center">Hi there, I'm Ishika Raj 👋</h1>
+<h3 align="center">A passionate Software Developer | UI/UX Designer | Graphic Designer</h3>
 
-<h1 align="left">Hi 👋, I'm Ishika Raj</h1>
-<h3 align="left">A passionate developer, UI/UX designer, Graphic designer </h3>
-<h3 align="left">📫 How to reach me ishika15raj@gmail.com </h3>
+- 💻 I specialize in **Backend Development** with expertise in Java, C++, and **Cloud Technologies**.
+- 🎨 I am also skilled in **UI/UX Design** and **Graphic Design**, bringing ideas to life with clean, user-friendly designs.
+- 🌱 Currently exploring **Low-Level Design** and **Web Development** frameworks to enhance my skills.
+- 📫 Feel free to reach out to me at: [ishika15raj@gmail.com](mailto:ishika15raj@gmail.com).
+
+Let's connect and build something amazing together! 🚀
+
 
 [![](https://visitcount.itsvg.in/api?id=ishika1501&icon=5&color=0)](https://visitcount.itsvg.in)
 
