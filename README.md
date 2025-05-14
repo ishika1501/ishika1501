@@ -7,9 +7,7 @@
 - 🎨 Skilled in **UI/UX Design** and **Graphic Design**.
 - 🌱 Currently exploring **Low-Level Design** and **Web Development** frameworks.
 - 📫 Feel free to reach out: [ishika15raj@gmail.com](mailto:ishika15raj@gmail.com)
-- 📫 Feel free to reach out on LinkedIn:    <a href="https://www.linkedin.com/in/ishika-raj-959279214">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
 
 
 
