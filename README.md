@@ -1,60 +1,54 @@
-<h1 align="center">
-  Hi there, I'm Ishika Raj 👋 
-</h1>
-<h3 align="center">Software Engineer | Java Backend | Microservices | Cloud</h3> 
+<h1 align="center">Hi, I'm Ishika Raj 👋</h1>
 
----
+<p align="center">
+  <strong>Software Engineer @ VOIS</strong><br>
+  Java Backend Engineer • Spring Boot • Microservices • Kafka
+</p>
 
-### 🚀 About Me:
+## 👩‍💻 About Me
 
-- 💻 Software Engineer with hands-on experience in **Java 17, Spring Boot, and Microservices Architecture**.
-- ⚙️ Built and optimized **RESTful APIs** improving performance (up to 30%) and reliability in production systems.
-- ☁️ Experienced in **AWS, GCP, Kubernetes, Terraform, and CI/CD pipelines**.
-- 🧠 Strong foundation in **Data Structures & Algorithms, OS, DBMS**.
-- 🔁 Skilled in **Design Patterns (Strangler Pattern), Multithreading, and Low-Level Design**.
-- 📫 Reach me at: **ishika15raj@gmail.com**
+<p align="left">
+<img align="right" src="Animated%20Dashboards.gif" width="150" hspace="100"/>
 
----
+- Backend Engineer with **1.5+ years of experience** building scalable applications.
+- Working with **Java, Spring Boot, Microservices, Kafka, and Distributed Systems**.
+- Experienced in **Cloud, Kubernetes, Terraform, and CI/CD Automation**.
+- Strong foundation in **DSA, DBMS, Operating Systems, and System Design**.
+- Solved **1200+ LeetCode problems**.
 
-### 💼 Experience Highlights:
+</p>
 
-#### 🚀 Software Engineer — VOIS (Vodafone Intelligent Solutions)
-- Developed **RESTful microservices** for identity management & device re-trade systems.
-- Reduced API response time by **30%** and improved system reliability.
-- Improved job execution efficiency by **60%** using **checkpoint-based retry mechanisms**.
-- Achieved **78% test coverage** using **JUnit & Mockito**.
-- Designed APIs with **OpenAPI** and worked in **Agile (Jira)** environment.
+## ⚙️ Tech Stack
 
-#### 💡 SDE Intern — Alteryx (Trifacta)
-- Built **Spring Boot microservice** using **Strangler Design Pattern** to replace legacy systems.
-- Improved dataset processing efficiency by **35%**.
-- Increased test coverage by **71%**, reducing production bugs.
-- Used **WireMock (Record & Replay)** for API testing.
-- Optimized APIs with pagination → **30% dev productivity boost, 50% faster onboarding**.
+<p align="left">
 
-#### ☁️ Software Engineering Intern — Optum (UnitedHealth Group)
-- Deployed **PEGA applications on GCP** using **Terraform & Jenkins**.
-- Reduced deployment time by **30%**.
-- Managed **Kubernetes (Helm)** deployments → **40% faster cycles, 99.2% uptime**.
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 
----
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45"/>
+  <img src="https://img.icons8.com/ios/50/api.png" width="45"/>
 
-### 💻 Tech Stack:
+  <!-- Architecture & Messaging -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
 
-#### 🧩 Backend
-Java • Spring Boot • Spring MVC • JPA/Hibernate • JDBC • REST APIs • Kafka
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
 
-#### ☁️ Cloud & DevOps
-AWS • GCP • Docker • Kubernetes • Helm • Terraform • Jenkins • CI/CD
+  <!-- Cloud & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 
-#### 🗄️ Database
-MySQL • NoSQL
+</p>
 
-#### 💡 Core CS
-DSA • OS • DBMS • Multithreading • LLD • Microservices
-
----
-
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ishika1501&theme=react&hide_border=true&include_all_commits=false&count_private=true)
+📧 **[ishika15raj@gmail.com](mailto:ishika15raj@gmail.com)**
+💼 **LinkedIn**
+💻 **LeetCode**
