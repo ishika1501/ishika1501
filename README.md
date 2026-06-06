@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ishika Raj 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer @ VOIS</strong><br>
+  <strong>Software Engineer</strong><br>
   Java Backend Engineer • Spring Boot • Microservices • Kafka
 </p>
 
